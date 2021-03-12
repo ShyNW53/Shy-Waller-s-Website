@@ -45,19 +45,17 @@ margin: 22px 50px;
 
 .hero {
   height: 80vh ;
-  background: linear-gradient(#52047b30, #52047b30),
-    url("https://images.unsplash.com/photo-1615132494681-f76d8f1b7cec?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fGxhbmQlMjBzY2FwZXxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60") ;
   background-size: cover ;
+  background-position: center;
+  background-repeat: no-repeat;
   color: white;
 }
 
+.index-hero { background: linear-gradient(#52047b30, #52047b30),
+    url("https://images.unsplash.com/photo-1615132494681-f76d8f1b7cec?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fGxhbmQlMjBzY2FwZXxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60")}
+
 .projects-hero {
-height: 80vh ;
-  background: linear-gradient(#52047b30, #52047b30),
-    url("https://images.unsplash.com/photo-1494545261862-dadfb7e1c13d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80") ;
-  background-size: cover ;
-  color: white;
-}
+  background: linear-gradient(#52047b30, #52047b30),}
 
 .hero-content{
   width:80%;
